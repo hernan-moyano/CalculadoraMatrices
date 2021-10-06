@@ -1,0 +1,10 @@
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\CalculadoraMatrices.exe.config
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\CalculadoraMatrices.exe
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\CalculadoraMatrices.pdb
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.csproj.AssemblyReference.cache
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.Properties.Resources.resources
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.csproj.GenerateResource.cache
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.exe
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.pdb
+F:\PROYECTOS\CARRERA\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\CalculadoraMatrices.Calculadora.resources
